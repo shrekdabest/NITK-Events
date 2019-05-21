@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291503927634",
+    "firebase_url": "https://nitk-calendar.firebaseio.com",
+    "project_id": "nitk-calendar",
+    "storage_bucket": "nitk-calendar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291503927634:android:260e0bdb96b7930a",
+        "android_client_info": {
+          "package_name": "com.example.nitk_events"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291503927634-kea2tp51jb5kvcdssqqvugjr435o2a26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nitk_events",
+            "certificate_hash": "dc006f744dc4d144fdf4b1e9b77324d4c89c352d"
+          }
+        },
+        {
+          "client_id": "291503927634-9j38mq77pb0828nmsh8kdvroddjev49i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVV_G1NfGzMbYzt4WW0M838PADWYzAhNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291503927634-9j38mq77pb0828nmsh8kdvroddjev49i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
